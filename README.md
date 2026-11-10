@@ -15,7 +15,7 @@ Practice with Pandas on `W1_Pokemon.csv`, comparing stats and types.
 
 ## Tools
 
-Python, Jupyter Notebook, Pandas, NumPy , Matplotlib
+Python, Jupyter Notebook, Pandas, NumPy , Matplotlib, Kaggle Workshop
 
 ## What's next
 
